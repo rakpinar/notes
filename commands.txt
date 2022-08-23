@@ -1,0 +1,4 @@
+0 git clone {link} {klasör adı}
+1 git add . | git add {dosya adi}
+2 git commit -m "{mesaj}"
+3 git push
